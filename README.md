@@ -3,7 +3,8 @@
 Public notebooks and wildlife photographs for the Aquatic Guardian `#/learn` course.
 
 Site: open `#/learn` on the Aquatic Guardian website. Each module’s **Open in Colab** button
-points here.
+points here, for example
+[CV01 in Colab](https://colab.research.google.com/github/ejri/aquatic-guardian-learning-modules/blob/main/notebooks/CV01_images_are_arrays.ipynb).
 
 ## Notebooks
 
